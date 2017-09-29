@@ -1,5 +1,3 @@
-//
-//  main.swift
 //  cloudkit
 //
 //  Created by Rahul Thukral on 09/08/17.
@@ -10,7 +8,7 @@
 
 
 
-/*   # CloudKit Share: Using CloudKit share APIs
+ # CloudKit Share: Using CloudKit share APIs
 
 ***********************RAHUL THUKRAL****************************
 
@@ -98,8 +96,8 @@ iOS 10.1 or later
 
 
 
-Copyright (C) 2017 Rahul Thukral . All rights reserved.*/
-/*
+Copyright (C) 2017 Rahul Thukral . All rights reserved.
+
  
  Copyright (C) 2017 Rahul Thukral . All Rights Reserved.
  
@@ -111,7 +109,7 @@ Copyright (C) 2017 Rahul Thukral . All rights reserved.*/
  
  A class to handle CloudKit errors.
  
- */
+ 
 
 
 
